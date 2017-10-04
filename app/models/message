@@ -1,7 +1,0 @@
-class Message
-  attr_accessor :subject, :email, :message, :errors
-
-  def valid?
-
-  end
-end

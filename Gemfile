@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'sass-rails', '~> 5.0'
 gem 'bootstrap-sass'
+gem 'validates_email_format_of'
 
 
 # Use ActiveModel has_secure_password
